@@ -26,4 +26,4 @@ Google Colab
 
 Data Visualizations (Matplotlib/Seaborn)
 
-Presentation Deck (Linked)
+Presentation Deck: https://www.canva.com/design/DAGooeVtOoE/1uvnTD5t3ECMyrI0qogiXw/view?utm_content=DAGooeVtOoE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h108b1a14d4
